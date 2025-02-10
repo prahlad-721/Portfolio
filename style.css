@@ -359,12 +359,12 @@ section .button button:hover{
   width: 45%;
   text-align: center;
   cursor: pointer;
-  margin: 10px;
+  margin: 0px;
 }
 
 .hobbies .hobby img {
-  width: 200px;
-  height: 100px;
+  width: 150px;
+  height: 180px;
   object-fit: cover;
   border-radius: 8px;
   transition: transform 0.2s ease;
